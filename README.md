@@ -45,4 +45,11 @@ Once the file is ready we can simply use the following command to bring up the c
 docker compose up -d
 ```
 
-The voting app can be accessed at localhost:5050 and the result app at localhost:5001
+The voting app can be accessed at localhost:5050:
+
+<img width="973" alt="image" src="https://github.com/user-attachments/assets/76784ac5-3c01-4092-84bb-cd1a1ca6889d">
+
+The result app at localhost:5001:
+
+<img width="1007" alt="image" src="https://github.com/user-attachments/assets/8d489f18-fd74-4d01-913e-d7a6198256d6">
+
